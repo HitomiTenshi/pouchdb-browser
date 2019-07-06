@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-browser",
-  "version": "7.0.0-prerelease",
+  "version": "7.2.0-prerelease",
   "description": "PouchDB, the browser-only edition.",
   "main": "./lib/index.js",
   "jsnext:main": "./lib/index.es.js",
@@ -10,7 +10,7 @@
   "dependencies": {
     "argsarray": "0.0.1",
     "immediate": "3.0.6",
-    "inherits": "2.0.3",
+    "inherits": "2.0.4",
     "spark-md5": "3.0.0",
     "uuid": "3.2.1",
     "vuvuzela": "1.0.3"
